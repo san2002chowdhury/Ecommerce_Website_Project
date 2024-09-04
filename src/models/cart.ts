@@ -24,4 +24,3 @@ const CartSchema = new Schema(
   { timestamps: true }
 );
 export const CartModel = model("cart", CartSchema);
-const name = "SUMAN NASKAR";
